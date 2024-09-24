@@ -2,7 +2,7 @@
 
 <h2>Azure Visitor Count App Diagram</h2>
 
-``` Mermaid
+``` mermaid
 
 sequenceDiagram
     participant AZ204.JFTech.info
